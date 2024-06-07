@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lambda</string>
+    <string name="API_KEY">sk-proj-8wokwSNOiqshkDpDzXUdT3BlbkFJTHgoWSiFQup3Btur1gcw</string>
+    <string name="type_message">Message</string>
+    <string name="send_message">Send</string>
+    <string-array name="year_array">
+        <item>Freshman</item>
+        <item>Sophomore</item>
+        <item>Junior</item>
+        <item>Senior</item>
+        <item>Masters</item>
+        <item>PhD</item>
+    </string-array>
+</resources>

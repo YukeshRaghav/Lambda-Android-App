@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryVariant">#1976D2</color>
+    <color name="colorTint">#A5D7FD</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#03A9F4</color>
+    <color name="colorSecondaryVariant">#0288D1</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorTitleBar">#E9F1FD</color>
+    <color name="colorBackground">#F6F9FF</color>
+    <color name="colorNavBar">#EFF1FB</color>
+</resources>
